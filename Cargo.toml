@@ -1,0 +1,8 @@
+[package]
+name = "quickhash"
+version = "0.1.0"
+authors = ["Thomas Hurst <tom@hur.st>"]
+edition = "2018"
+
+[dependencies]
+siphasher = "0.3.0"
