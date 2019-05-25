@@ -6,3 +6,6 @@ edition = "2018"
 
 [dependencies]
 siphasher = "0.3.0"
+crossbeam-channel = "0.3.8"
+num_cpus = "1.10.0"
+crossbeam-utils = "0.6.5"
